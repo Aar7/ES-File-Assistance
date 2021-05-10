@@ -1,0 +1,33 @@
+In <KeywordLists>
+1. Keywords1 contains general keywords that may exist across many files (ships, outfits, governments, etc.)
+  > Style: RGB 255,0,0, Bold , default font
+  
+2. Keywords2 contains keywords describing npc behaviour
+  > Style: RGB 0,0,255, default font
+  
+3. Keywords3 contains keywords describing npc personality
+  > Style: RGB 0,0,179 Bold, Italic, default font
+  
+4. Keywords4 contains keywords usually preceded by 'on' or 'to'
+  > Style: RGB 243,130,27, Bold, Italic, default font
+  
+5. Keywords5 contains: keywords which add context to images, harvestables, and outfits**
+  > Style: RGB 255,0,255, Italic, default font
+  
+6. Keywords6/7/8 are blank
+---------------------------------------------------------------------------
+OPERATORS
+Forward Operators (Operators1)
++ * - =
+Backward Operators (Operators2)
+on to has goto label branch set clear not autosave defer never and or add
+
+DELIMITERS
+` ` Backticks. No escape.
+  > Style: RGB 128,128,128, Italic, default font
+  > No nesting
+
+" " Double Quotes. No escape.
+  > Style: 255,0,0, Bold, default font
+
+** Uncertain about the outfits category.

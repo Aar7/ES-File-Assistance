@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">&lt; \&lt; &gt; \&gt; + * - = </Keywords>
+            <Keywords name="Operators1">&lt; \&lt; &gt; \&gt; + * - =</Keywords>
             <Keywords name="Operators2">on to has goto label branch set clear not autosave defer never and or add</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -27,12 +27,12 @@
             <Keywords name="Keywords1">mission name description blocked deadline cargo passengers illegal stealth invisible priority minor job landing assisting boarding repeat clearance infiltrating waypoint waypoints stopover source destination neighbour npc government personality system near distance dialog conversation ship fleet names variant fighters log phrase outfit outfits require give ship payment event fail report choice done random planet launch word attributes frequency start date account credits score mortgage tip &#x000D;&#x000A;&#x000D;&#x000A;commodity &#x000D;&#x000A;&#x000D;&#x000A;scene&#x000D;&#x000A;&#x000D;&#x000A;person weapon neighbor rating &#x000D;&#x000A;&#x000D;&#x000A;star power wind&#x000D;&#x000A;&#x000D;&#x000A;effect sprite sound &#x000D;&#x000A;&#x000D;&#x000A;swizzle color interface visible &quot;visible if&quot; active &quot;active if&quot; dimensions bar size string box button image align pad anchor point value ring outline hover &#x000D;&#x000A;&#x000D;&#x000A;language raid minable hull payload explode plural category cost thumbnail help &#x000D;&#x000A;&#x000D;&#x000A;galaxy pos habitable belt link asteroids minables trade object period</Keywords>
             <Keywords name="Keywords2">spawn despawn save kill board assist disable &quot;scan cargo&quot; &quot;scan outfits&quot; evade accompany capture provoke destroy atrocity</Keywords>
             <Keywords name="Keywords3">pacifist forbearing timid heroic nemesis frugal disables plunders vindictive unconstrained coward appeasing opportunistic staying entering waiting launching fleeing derelict uninterested surveillance mining harvests swarming escort target marked mute confusion</Keywords>
-            <Keywords name="Keywords4">offer complete accept decline abort visit enter </Keywords>
+            <Keywords name="Keywords4">offer complete accept decline abort visit enter</Keywords>
             <Keywords name="Keywords5">center from top right left bottom medium bright&#x000D;&#x000A;&#x000D;&#x000A;principal interest term &#x000D;&#x000A;&#x000D;&#x000A;aluminium copper gold iron lead neodymium platinum silicon silver titanium tungsten uranium yottrite&#x000D;&#x000A;&#x000D;&#x000A;thrusters steering reactor battery cooler shield gun turret engine&#x000D;&#x000A;&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
-            <Keywords name="Delimiters">00` 01 02` 03&quot; 04 05&quot; 06&lt; 07 08&lt; 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+            <Keywords name="Delimiters">00` 01 02` 03&quot; 04 05&quot; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
